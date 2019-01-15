@@ -1,0 +1,28 @@
+{
+  "name": "@simplej/spry-test-utils",
+  "version": "0.0.2",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@simplej/spry-manifest": "0.0.5",
+    "dotenv": "^6.2.0",
+    "resolve-from": "^4.0.0"
+  },
+  "description": "",
+  "keywords": [],
+  "author": "James Meyers",
+  "license": "MIT",
+  "homepage": "https://github.com/jmeyers91/spry-test-utils#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmeyers91/spry-test-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jmeyers91/spry-test-utils/issues"
+  }
+}
